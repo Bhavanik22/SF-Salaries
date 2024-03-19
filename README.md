@@ -10,21 +10,21 @@ One way to understand how a city government works is by looking at who it employ
 **Data Cleaning & Analysis** - MySQL Workbench
 
 ----------------------------------
-|Column              |Description |
+Column             Description 
 ----------------------------------
-|Id	                 |int         |
-|EmployeeName	       |Varchar(50) |
-|JobTitle	           |Varchar(50) |
-|BasePay	           |double      |
-|OvertimePay	       |double      |
-|OtherPay	           |double      |
-|Benefits	           |Varchar(50) |
-|TotalPay	           |double      |
-|TotalPayBenefits    |double      |
-|Year	               |int         |
-|Notes	             |Varchar(50) |
-|Agency	             |Varchar(50) |
-|Status	             |Varchar(50) |
+Id	            int         
+EmployeeName	     Varchar(50) 
+JobTitle	     Varchar(50) 
+BasePay	     double      
+OvertimePay	     double      
+OtherPay	     double      
+Benefits	     Varchar(50) 
+TotalPay	     double      
+TotalPayBenefits   double      
+Year	            int        
+Notes	            Varchar(50) 
+Agency	            Varchar(50) 
+Status	            Varchar(50) 
 ----------------------------------
 
 **Data Wrangling :** This is the first step where inspection of data is done to make sure **Null** values and missing values are detected and there is no **Null** or missing values are dedected in the data.
